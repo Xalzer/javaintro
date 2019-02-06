@@ -5,7 +5,7 @@ class Tentative {
   public static void main(String[] args) {
   
     int x = 5; 
-    System.out.println("This should be working!");
+    System.out.println(5);
     
     }//end of main
     
